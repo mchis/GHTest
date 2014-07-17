@@ -1,0 +1,900 @@
+[252] CS10: ---------------------------------------------------------------- 
+[252] CS10: [EXC] _Refresh_ExecuteInOtherThread, exception 
+[252] CS10: Value cannot be null.  
+[252] CS10: Parameter name: pNativeData 
+[252] CS10:    at System.Runtime.InteropServices.CustomMarshalers.EnumeratorToEnumVariantMarshaler.MarshalNativeToManaged(IntPtr pNativeData)  
+[252] CS10:    at System.Collections.IEnumerator.get_Current()  
+[252] CS10:    at AxTools.VS10X.CodeMap.CodeMapPresenter.<>c__DisplayClass3c.<_Refresh_ExecuteInOtherThread>b__3b(CodeElements codeElements)  
+[252] CS10:    at AxTools.VS10X.CodeMap.CodeMapPresenter._Refresh_ExecuteInOtherThread(Object param) 
+[252] CS10: ---------------------------------------------------------------- 
+[252] CS10: [EXC] _Refresh_ExecuteInOtherThread, exception 
+[252] CS10: Library not registered. (Exception from HRESULT: 0x8002801D (TYPE_E_LIBNOTREGISTERED)) 
+[252] CS10:    at EnvDTE.CodeElements.GetEnumerator()  
+[252] CS10:    at AxTools.VS10X.CodeMap.CodeMapPresenter.<>c__DisplayClass3c.<_Refresh_ExecuteInOtherThread>b__3b(CodeElements codeElements)  
+[252] CS10:    at AxTools.VS10X.CodeMap.CodeMapPresenter._Refresh_ExecuteInOtherThread(Object param) 
+[252] CS10: ---------------------------------------------------------------- 
+[5188] CS10: SelectionPopupHandler - _selectionPopupEvents is null
+[5188] CS10: ---------------------------------------------------------------- 
+[5188] CS10: [EXC] AutoText.ShowTipWindow: _autoTextTTController is null 
+[5188] CS10: ---------------------------------------------------------------- 
+[5188] CS10: [EXC] AutoText.ShowTipWindow: _autoTextTTController is null 
+[5188] CS10: ---------------------------------------------------------------- 
+[2724] CS10: SelectionPopupHandler - _selectionPopupEvents is null
+[4220] CS10: SelectionPopupHandler - _selectionPopupEvents is null
+[4220] CS10: GlobalHistoryMarginProvider.CreateMargin: Dte is null, cannot continue. 
+[6136] CS10: SelectionPopupHandler - _selectionPopupEvents is null
+[6136] CS10: ---------------------------------------------------------------- 
+[6136] CS10: [EXC] AutoText.ShowTipWindow: _autoTextTTController is null 
+[6136] CS10: ---------------------------------------------------------------- 
+[5048] CS10: SelectionPopupHandler - _selectionPopupEvents is null
+[5048] CS10: ---------------------------------------------------------------- 
+[5048] CS10: [EXC] AutoText.ShowTipWindow: _autoTextTTController is null 
+[5048] CS10: ---------------------------------------------------------------- 
+[5048] CS10: ---------------------------------------------------------------- 
+[5048] CS10: [EXC] AutoText.ShowTipWindow: _autoTextTTController is null 
+[5048] CS10: ---------------------------------------------------------------- 
+[5048] CS10: GlobalHistoryMarginProvider.CreateMargin: Dte is null, cannot continue. 
+[5552] CS10: SelectionPopupHandler - _selectionPopupEvents is null
+[5552] CS10: GlobalHistoryMarginProvider.CreateMargin: Dte is null, cannot continue. 
+[5828] CS10: SelectionPopupHandler - _selectionPopupEvents is null
+[5828] CS10: GlobalHistoryMarginProvider.CreateMargin: Dte is null, cannot continue. 
+[252] CS10: ---------------------------------------------------------------- 
+[252] CS10: [EXC] _Refresh_ExecuteInOtherThread, exception 
+[252] CS10: Library not registered. (Exception from HRESULT: 0x8002801D (TYPE_E_LIBNOTREGISTERED)) 
+[252] CS10:    at EnvDTE80.FileCodeModel2.get_CodeElements()  
+[252] CS10:    at AxTools.VS10X.CodeMap.CodeMapPresenter._Refresh_ExecuteInOtherThread(Object param) 
+[252] CS10: ---------------------------------------------------------------- 
+[252] CS10: [EXC] _Refresh_ExecuteInOtherThread, exception 
+[252] CS10: Library not registered. (Exception from HRESULT: 0x8002801D (TYPE_E_LIBNOTREGISTERED)) 
+[252] CS10:    at EnvDTE80.FileCodeModel2.get_CodeElements()  
+[252] CS10:    at AxTools.VS10X.CodeMap.CodeMapPresenter._Refresh_ExecuteInOtherThread(Object param) 
+[252] CS10: ---------------------------------------------------------------- 
+[252] CS10: [EXC] _Refresh_ExecuteInOtherThread, exception 
+[252] CS10: Value cannot be null.  
+[252] CS10: Parameter name: pNativeData 
+[252] CS10:    at System.Runtime.InteropServices.CustomMarshalers.EnumeratorToEnumVariantMarshaler.MarshalNativeToManaged(IntPtr pNativeData)  
+[252] CS10:    at System.Collections.IEnumerator.MoveNext()  
+[252] CS10:    at AxTools.VS10X.CodeMap.CodeMapPresenter.<>c__DisplayClass3c.<_Refresh_ExecuteInOtherThread>b__3b(CodeElements codeElements)  
+[252] CS10:    at AxTools.VS10X.CodeMap.CodeMapPresenter._Refresh_ExecuteInOtherThread(Object param) 
+[252] CS10: ---------------------------------------------------------------- 
+[252] CS10: [EXC] _Refresh_ExecuteInOtherThread, exception 
+[252] CS10: Value cannot be null.  
+[252] CS10: Parameter name: pNativeData 
+[252] CS10:    at System.Runtime.InteropServices.CustomMarshalers.EnumeratorToEnumVariantMarshaler.MarshalNativeToManaged(IntPtr pNativeData)  
+[252] CS10:    at System.Collections.IEnumerator.MoveNext()  
+[252] CS10:    at AxTools.VS10X.CodeMap.CodeMapPresenter.<>c__DisplayClass3c.<_Refresh_ExecuteInOtherThread>b__3b(CodeElements codeElements)  
+[252] CS10:    at AxTools.VS10X.CodeMap.CodeMapPresenter._Refresh_ExecuteInOtherThread(Object param) 
+[252] CS10: ---------------------------------------------------------------- 
+[252] CS10: [EXC] _Refresh_ExecuteInOtherThread, exception 
+[252] CS10: Library not registered. (Exception from HRESULT: 0x8002801D (TYPE_E_LIBNOTREGISTERED)) 
+[252] CS10:    at EnvDTE.CodeElement.get_Kind()  
+[252] CS10:    at AxTools.VS10X.CodeMap.CodeMapPresenter.<>c__DisplayClass3c.<_Refresh_ExecuteInOtherThread>b__3b(CodeElements codeElements)  
+[252] CS10:    at AxTools.VS10X.CodeMap.CodeMapPresenter._Refresh_ExecuteInOtherThread(Object param) 
+[252] CS10: ---------------------------------------------------------------- 
+[252] CS10: [EXC] _Refresh_ExecuteInOtherThread, exception 
+[252] CS10: Value cannot be null.  
+[252] CS10: Parameter name: pNativeData 
+[252] CS10:    at System.Runtime.InteropServices.CustomMarshalers.EnumeratorToEnumVariantMarshaler.MarshalNativeToManaged(IntPtr pNativeData)  
+[252] CS10:    at System.Collections.IEnumerator.MoveNext()  
+[252] CS10:    at AxTools.VS10X.CodeMap.CodeMapPresenter.<>c__DisplayClass3c.<_Refresh_ExecuteInOtherThread>b__3b(CodeElements codeElements)  
+[252] CS10:    at AxTools.VS10X.CodeMap.CodeMapPresenter._Refresh_ExecuteInOtherThread(Object param) 
+[252] CS10: ---------------------------------------------------------------- 
+[252] CS10: [EXC] (no description) 
+[252] CS10: Library not registered. (Exception from HRESULT: 0x8002801D (TYPE_E_LIBNOTREGISTERED)) 
+[252] CS10:    at EnvDTE80.FileCodeModel2.get_CodeElements()  
+[252] CS10:    at AxTools.VS10X.EditorViewEnhancer.XFcm.<_StartParseThread>b__0() 
+[252] CS10: ---------------------------------------------------------------- 
+[252] CS10: _Refresh_ExecuteInOtherThread 
+[252] CS10: ---------------------------------------------------------------- 
+[252] CS10: [EXC] _Refresh_ExecuteInOtherThread, exception in recursion 
+[252] CS10: Library not registered. (Exception from HRESULT: 0x8002801D (TYPE_E_LIBNOTREGISTERED)) 
+[252] CS10:    at EnvDTE.CodeElements.GetEnumerator()  
+[252] CS10:    at AxTools.VS10X.CodeMap.CodeMapPresenter.<>c__DisplayClass3c.<_Refresh_ExecuteInOtherThread>b__3b(CodeElements codeElements)  
+[252] CS10:    at AxTools.VS10X.CodeMap.CodeMapPresenter.<>c__DisplayClass3c.<_Refresh_ExecuteInOtherThread>b__3b(CodeElements codeElements) 
+[252] CS10: ---------------------------------------------------------------- 
+[252] CS10: [EXC] _Refresh_ExecuteInOtherThread, exception in recursion 
+[252] CS10: Object reference not set to an instance of an object. 
+[252] CS10:    at AxTools.VS10X.CodeMap.CodeMapPresenter.<>c__DisplayClass3c.<_Refresh_ExecuteInOtherThread>b__3b(CodeElements codeElements)  
+[252] CS10:    at AxTools.VS10X.CodeMap.CodeMapPresenter.<>c__DisplayClass3c.<_Refresh_ExecuteInOtherThread>b__3b(CodeElements codeElements) 
+[252] CS10: ---------------------------------------------------------------- 
+[252] CS10: [EXC] _Refresh_ExecuteInOtherThread, exception in recursion 
+[252] CS10: Library not registered. (Exception from HRESULT: 0x8002801D (TYPE_E_LIBNOTREGISTERED)) 
+[252] CS10:    at EnvDTE.CodeElements.GetEnumerator()  
+[252] CS10:    at AxTools.VS10X.CodeMap.CodeMapPresenter.<>c__DisplayClass3c.<_Refresh_ExecuteInOtherThread>b__3b(CodeElements codeElements)  
+[252] CS10:    at AxTools.VS10X.CodeMap.CodeMapPresenter.<>c__DisplayClass3c.<_Refresh_ExecuteInOtherThread>b__3b(CodeElements codeElements) 
+[252] CS10: ---------------------------------------------------------------- 
+[252] CS10: [EXC] _Refresh_ExecuteInOtherThread, exception 
+[252] CS10: Library not registered. (Exception from HRESULT: 0x8002801D (TYPE_E_LIBNOTREGISTERED)) 
+[252] CS10:    at EnvDTE.CodeElement.get_Kind()  
+[252] CS10:    at AxTools.VS10X.CodeMap.CodeMapPresenter.<>c__DisplayClass3c.<_Refresh_ExecuteInOtherThread>b__3b(CodeElements codeElements)  
+[252] CS10:    at AxTools.VS10X.CodeMap.CodeMapPresenter._Refresh_ExecuteInOtherThread(Object param) 
+[252] CS10: ---------------------------------------------------------------- 
+[252] CS10: [EXC] _Refresh_ExecuteInOtherThread, exception 
+[252] CS10: Value cannot be null.  
+[252] CS10: Parameter name: pNativeData 
+[252] CS10:    at System.Runtime.InteropServices.CustomMarshalers.EnumeratorToEnumVariantMarshaler.MarshalNativeToManaged(IntPtr pNativeData)  
+[252] CS10:    at System.Collections.IEnumerator.MoveNext()  
+[252] CS10:    at AxTools.VS10X.CodeMap.CodeMapPresenter.<>c__DisplayClass3c.<_Refresh_ExecuteInOtherThread>b__3b(CodeElements codeElements)  
+[252] CS10:    at AxTools.VS10X.CodeMap.CodeMapPresenter._Refresh_ExecuteInOtherThread(Object param) 
+[252] CS10: ---------------------------------------------------------------- 
+[252] CS10: [EXC] _Refresh_ExecuteInOtherThread, exception in recursion 
+[252] CS10: Value cannot be null.  
+[252] CS10: Parameter name: pNativeData 
+[252] CS10:    at System.Runtime.InteropServices.CustomMarshalers.EnumeratorToEnumVariantMarshaler.MarshalNativeToManaged(IntPtr pNativeData)  
+[252] CS10:    at System.Collections.IEnumerator.get_Current()  
+[252] CS10:    at AxTools.VS10X.CodeMap.CodeMapPresenter.<>c__DisplayClass3c.<_Refresh_ExecuteInOtherThread>b__3b(CodeElements codeElements)  
+[252] CS10:    at AxTools.VS10X.CodeMap.CodeMapPresenter.<>c__DisplayClass3c.<_Refresh_ExecuteInOtherThread>b__3b(CodeElements codeElements) 
+[252] CS10: ---------------------------------------------------------------- 
+[252] CS10: [EXC] _Refresh_ExecuteInOtherThread, exception 
+[252] CS10: Library not registered. (Exception from HRESULT: 0x8002801D (TYPE_E_LIBNOTREGISTERED)) 
+[252] CS10:    at EnvDTE.CodeElement.get_Kind()  
+[252] CS10:    at AxTools.VS10X.CodeMap.CodeMapPresenter.<>c__DisplayClass3c.<_Refresh_ExecuteInOtherThread>b__3b(CodeElements codeElements)  
+[252] CS10:    at AxTools.VS10X.CodeMap.CodeMapPresenter._Refresh_ExecuteInOtherThread(Object param) 
+[252] CS10: ---------------------------------------------------------------- 
+[252] CS10: [EXC] _Refresh_ExecuteInOtherThread, exception 
+[252] CS10: Library not registered. (Exception from HRESULT: 0x8002801D (TYPE_E_LIBNOTREGISTERED)) 
+[252] CS10:    at EnvDTE.CodeElement.get_Kind()  
+[252] CS10:    at AxTools.VS10X.CodeMap.CodeMapPresenter.<>c__DisplayClass3c.<_Refresh_ExecuteInOtherThread>b__3b(CodeElements codeElements)  
+[252] CS10:    at AxTools.VS10X.CodeMap.CodeMapPresenter._Refresh_ExecuteInOtherThread(Object param) 
+[252] CS10: ---------------------------------------------------------------- 
+[252] CS10: [EXC] _Refresh_ExecuteInOtherThread, exception 
+[252] CS10: Library not registered. (Exception from HRESULT: 0x8002801D (TYPE_E_LIBNOTREGISTERED)) 
+[252] CS10:    at EnvDTE80.FileCodeModel2.get_CodeElements()  
+[252] CS10:    at AxTools.VS10X.CodeMap.CodeMapPresenter._Refresh_ExecuteInOtherThread(Object param) 
+[252] CS10: ---------------------------------------------------------------- 
+[252] CS10: [EXC] _Refresh_ExecuteInOtherThread, exception 
+[252] CS10: Unable to cast object of type 'System.__ComObject' to type 'EnvDTE.CodeElement'. 
+[252] CS10:    at AxTools.VS10X.CodeMap.CodeMapPresenter.<>c__DisplayClass3c.<_Refresh_ExecuteInOtherThread>b__3b(CodeElements codeElements)  
+[252] CS10:    at AxTools.VS10X.CodeMap.CodeMapPresenter._Refresh_ExecuteInOtherThread(Object param) 
+[252] CS10: ---------------------------------------------------------------- 
+[252] CS10: [EXC] _Refresh_ExecuteInOtherThread, exception 
+[252] CS10: Library not registered. (Exception from HRESULT: 0x8002801D (TYPE_E_LIBNOTREGISTERED)) 
+[252] CS10:    at EnvDTE80.FileCodeModel2.get_CodeElements()  
+[252] CS10:    at AxTools.VS10X.CodeMap.CodeMapPresenter._Refresh_ExecuteInOtherThread(Object param) 
+[252] CS10: ---------------------------------------------------------------- 
+[252] CS10: [EXC] _Refresh_ExecuteInOtherThread, exception 
+[252] CS10: Unable to cast object of type 'System.__ComObject' to type 'EnvDTE.CodeElement'. 
+[252] CS10:    at AxTools.VS10X.CodeMap.CodeMapPresenter.<>c__DisplayClass3c.<_Refresh_ExecuteInOtherThread>b__3b(CodeElements codeElements)  
+[252] CS10:    at AxTools.VS10X.CodeMap.CodeMapPresenter._Refresh_ExecuteInOtherThread(Object param) 
+[252] CS10: ---------------------------------------------------------------- 
+[252] CS10: [EXC] _Refresh_ExecuteInOtherThread, exception 
+[252] CS10: Library not registered. (Exception from HRESULT: 0x8002801D (TYPE_E_LIBNOTREGISTERED)) 
+[252] CS10:    at EnvDTE.CodeElements.GetEnumerator()  
+[252] CS10:    at AxTools.VS10X.CodeMap.CodeMapPresenter.<>c__DisplayClass3c.<_Refresh_ExecuteInOtherThread>b__3b(CodeElements codeElements)  
+[252] CS10:    at AxTools.VS10X.CodeMap.CodeMapPresenter._Refresh_ExecuteInOtherThread(Object param) 
+[252] CS10: ---------------------------------------------------------------- 
+[252] CS10: _Refresh_ThreadEnded 
+[252] CS10: _Refresh_ExecuteInOtherThread 
+[252] CS10: _Refresh_ThreadEnded 
+[252] CS10: _Refresh_ExecuteInOtherThread 
+[252] CS10: _Refresh_ExecuteInOtherThread 
+[252] CS10: ---------------------------------------------------------------- 
+[252] CS10: [EXC] _Refresh_ExecuteInOtherThread, exception 
+[252] CS10: Value cannot be null.  
+[252] CS10: Parameter name: pNativeData 
+[252] CS10:    at System.Runtime.InteropServices.CustomMarshalers.EnumeratorToEnumVariantMarshaler.MarshalNativeToManaged(IntPtr pNativeData)  
+[252] CS10:    at System.Collections.IEnumerator.get_Current()  
+[252] CS10:    at AxTools.VS10X.CodeMap.CodeMapPresenter.<>c__DisplayClass3c.<_Refresh_ExecuteInOtherThread>b__3b(CodeElements codeElements)  
+[252] CS10:    at AxTools.VS10X.CodeMap.CodeMapPresenter._Refresh_ExecuteInOtherThread(Object param) 
+[252] CS10: ---------------------------------------------------------------- 
+[252] CS10: _Refresh_ThreadEnded 
+[252] CS10: _Refresh_ExecuteInOtherThread 
+[252] CS10: ---------------------------------------------------------------- 
+[252] CS10: [EXC] _Refresh_ExecuteInOtherThread, exception 
+[252] CS10: Value cannot be null.  
+[252] CS10: Parameter name: pNativeData 
+[252] CS10:    at System.Runtime.InteropServices.CustomMarshalers.EnumeratorToEnumVariantMarshaler.MarshalNativeToManaged(IntPtr pNativeData)  
+[252] CS10:    at System.Collections.IEnumerator.get_Current()  
+[252] CS10:    at AxTools.VS10X.CodeMap.CodeMapPresenter.<>c__DisplayClass3c.<_Refresh_ExecuteInOtherThread>b__3b(CodeElements codeElements)  
+[252] CS10:    at AxTools.VS10X.CodeMap.CodeMapPresenter._Refresh_ExecuteInOtherThread(Object param) 
+[252] CS10: ---------------------------------------------------------------- 
+[252] CS10: _Refresh_ExecuteInOtherThread 
+[252] CS10: _Refresh_ThreadEnded 
+[252] CS10: ---------------------------------------------------------------- 
+[252] CS10: [EXC] _Refresh_ExecuteInOtherThread, exception 
+[252] CS10: Value cannot be null.  
+[252] CS10: Parameter name: pNativeData 
+[252] CS10:    at System.Runtime.InteropServices.CustomMarshalers.EnumeratorToEnumVariantMarshaler.MarshalNativeToManaged(IntPtr pNativeData)  
+[252] CS10:    at System.Collections.IEnumerator.get_Current()  
+[252] CS10:    at AxTools.VS10X.CodeMap.CodeMapPresenter.<>c__DisplayClass3c.<_Refresh_ExecuteInOtherThread>b__3b(CodeElements codeElements)  
+[252] CS10:    at AxTools.VS10X.CodeMap.CodeMapPresenter._Refresh_ExecuteInOtherThread(Object param) 
+[252] CS10: ---------------------------------------------------------------- 
+[252] CS10: _Refresh_ThreadEnded 
+[252] CS10: _Refresh_ThreadEnded 
+[252] CS10: _Refresh_ExecuteInOtherThread 
+[252] CS10: ---------------------------------------------------------------- 
+[252] CS10: [EXC] _Refresh_ExecuteInOtherThread, exception 
+[252] CS10: Library not registered. (Exception from HRESULT: 0x8002801D (TYPE_E_LIBNOTREGISTERED)) 
+[252] CS10:    at EnvDTE.CodeElements.GetEnumerator()  
+[252] CS10:    at AxTools.VS10X.CodeMap.CodeMapPresenter.<>c__DisplayClass3c.<_Refresh_ExecuteInOtherThread>b__3b(CodeElements codeElements)  
+[252] CS10:    at AxTools.VS10X.CodeMap.CodeMapPresenter._Refresh_ExecuteInOtherThread(Object param) 
+[252] CS10: ---------------------------------------------------------------- 
+[252] CS10: _Refresh_ExecuteInOtherThread 
+[252] CS10: ---------------------------------------------------------------- 
+[252] CS10: [EXC] _Refresh_ExecuteInOtherThread, exception 
+[252] CS10: Library not registered. (Exception from HRESULT: 0x8002801D (TYPE_E_LIBNOTREGISTERED)) 
+[252] CS10:    at EnvDTE.CodeElement.get_Kind()  
+[252] CS10:    at AxTools.VS10X.CodeMap.CodeMapPresenter.<>c__DisplayClass3c.<_Refresh_ExecuteInOtherThread>b__3b(CodeElements codeElements)  
+[252] CS10:    at AxTools.VS10X.CodeMap.CodeMapPresenter._Refresh_ExecuteInOtherThread(Object param) 
+[252] CS10: ---------------------------------------------------------------- 
+[252] CS10: [EXC] _Refresh_ExecuteInOtherThread, exception in recursion 
+[252] CS10: Library not registered. (Exception from HRESULT: 0x8002801D (TYPE_E_LIBNOTREGISTERED)) 
+[252] CS10:    at EnvDTE.CodeElement.get_Kind()  
+[252] CS10:    at AxTools.VS10X.CodeMap.CodeMapPresenter.<>c__DisplayClass3c.<_Refresh_ExecuteInOtherThread>b__3b(CodeElements codeElements)  
+[252] CS10:    at AxTools.VS10X.CodeMap.CodeMapPresenter.<>c__DisplayClass3c.<_Refresh_ExecuteInOtherThread>b__3b(CodeElements codeElements) 
+[3100] CS10: SelectionPopupHandler - _selectionPopupEvents is null
+[3100] CS10: GlobalHistoryMarginProvider.CreateMargin: Dte is null, cannot continue. 
+[5340] CS10: SelectionPopupHandler - _selectionPopupEvents is null
+[5340] CS10: GlobalHistoryMarginProvider.CreateMargin: Dte is null, cannot continue. 
+[252] CS10: _Refresh_ExecuteInOtherThread 
+[252] CS10: _Refresh_ThreadEnded 
+[252] CS10: _Refresh_ExecuteInOtherThread 
+[252] CS10: _Refresh_ThreadEnded 
+[252] CS10: _Refresh_ExecuteInOtherThread 
+[252] CS10: _Refresh_ExecuteInOtherThread 
+[252] CS10: ---------------------------------------------------------------- 
+[252] CS10: [EXC] _Refresh_ExecuteInOtherThread, exception 
+[252] CS10: Library not registered. (Exception from HRESULT: 0x8002801D (TYPE_E_LIBNOTREGISTERED)) 
+[252] CS10:    at EnvDTE80.FileCodeModel2.get_CodeElements()  
+[252] CS10:    at AxTools.VS10X.CodeMap.CodeMapPresenter._Refresh_ExecuteInOtherThread(Object param) 
+[252] CS10: ---------------------------------------------------------------- 
+[252] CS10: [EXC] _Refresh_ExecuteInOtherThread, exception 
+[252] CS10: Library not registered. (Exception from HRESULT: 0x8002801D (TYPE_E_LIBNOTREGISTERED)) 
+[252] CS10:    at EnvDTE.CodeElement.get_Kind()  
+[252] CS10:    at AxTools.VS10X.CodeMap.CodeMapPresenter.<>c__DisplayClass3c.<_Refresh_ExecuteInOtherThread>b__3b(CodeElements codeElements)  
+[252] CS10:    at AxTools.VS10X.CodeMap.CodeMapPresenter._Refresh_ExecuteInOtherThread(Object param) 
+[252] CS10: ---------------------------------------------------------------- 
+[252] CS10: ---------------------------------------------------------------- 
+[252] CS10: [EXC] _Refresh_ExecuteInOtherThread, exception in recursion 
+[252] CS10: Library not registered. (Exception from HRESULT: 0x8002801D (TYPE_E_LIBNOTREGISTERED)) 
+[252] CS10:    at System.Runtime.InteropServices.ComTypes.IEnumerator.MoveNext()  
+[252] CS10:    at System.Collections.IEnumerator.MoveNext()  
+[252] CS10:    at AxTools.VS10X.CodeMap.CodeMapPresenter.<>c__DisplayClass3c.<_Refresh_ExecuteInOtherThread>b__3b(CodeElements codeElements)  
+[252] CS10:    at AxTools.VS10X.CodeMap.CodeMapPresenter.<>c__DisplayClass3c.<_Refresh_ExecuteInOtherThread>b__3b(CodeElements codeElements) 
+[252] CS10: ---------------------------------------------------------------- 
+[252] CS10: ---------------------------------------------------------------- 
+[252] CS10: [EXC] _Refresh_ExecuteInOtherThread, exception in recursion 
+[252] CS10: Library not registered. (Exception from HRESULT: 0x8002801D (TYPE_E_LIBNOTREGISTERED)) 
+[252] CS10:    at System.Runtime.InteropServices.ComTypes.IEnumerator.MoveNext()  
+[252] CS10:    at System.Collections.IEnumerator.MoveNext()  
+[252] CS10:    at AxTools.VS10X.CodeMap.CodeMapPresenter.<>c__DisplayClass3c.<_Refresh_ExecuteInOtherThread>b__3b(CodeElements codeElements)  
+[252] CS10:    at AxTools.VS10X.CodeMap.CodeMapPresenter.<>c__DisplayClass3c.<_Refresh_ExecuteInOtherThread>b__3b(CodeElements codeElements) 
+[252] CS10: ---------------------------------------------------------------- 
+[252] CS10: _Refresh_ThreadEnded 
+[252] CS10: _Refresh_ThreadEnded 
+[252] CS10: _Refresh_ThreadEnded 
+[252] CS10: _Refresh_ExecuteInOtherThread 
+[252] CS10: ---------------------------------------------------------------- 
+[252] CS10: [EXC] _Refresh_ExecuteInOtherThread, exception 
+[252] CS10: Library not registered. (Exception from HRESULT: 0x8002801D (TYPE_E_LIBNOTREGISTERED)) 
+[252] CS10:    at EnvDTE.CodeElements.GetEnumerator()  
+[252] CS10:    at AxTools.VS10X.CodeMap.CodeMapPresenter.<>c__DisplayClass3c.<_Refresh_ExecuteInOtherThread>b__3b(CodeElements codeElements)  
+[252] CS10:    at AxTools.VS10X.CodeMap.CodeMapPresenter._Refresh_ExecuteInOtherThread(Object param) 
+[252] CS10: ---------------------------------------------------------------- 
+[252] CS10: _Refresh_ExecuteInOtherThread 
+[252] CS10: ---------------------------------------------------------------- 
+[252] CS10: [EXC] _Refresh_ExecuteInOtherThread, exception in recursion 
+[252] CS10: Library not registered. (Exception from HRESULT: 0x8002801D (TYPE_E_LIBNOTREGISTERED)) 
+[252] CS10:    at EnvDTE.CodeElement.get_Kind()  
+[252] CS10:    at AxTools.VS10X.CodeMap.CodeMapPresenter.<>c__DisplayClass3c.<_Refresh_ExecuteInOtherThread>b__3b(CodeElements codeElements)  
+[252] CS10:    at AxTools.VS10X.CodeMap.CodeMapPresenter.<>c__DisplayClass3c.<_Refresh_ExecuteInOtherThread>b__3b(CodeElements codeElements) 
+[252] CS10: ---------------------------------------------------------------- 
+[252] CS10: ---------------------------------------------------------------- 
+[252] CS10: [EXC] _Refresh_ExecuteInOtherThread, exception 
+[252] CS10: Library not registered. (Exception from HRESULT: 0x8002801D (TYPE_E_LIBNOTREGISTERED)) 
+[252] CS10:    at EnvDTE.CodeElement.get_Kind()  
+[252] CS10:    at AxTools.VS10X.CodeMap.CodeMapPresenter.<>c__DisplayClass3c.<_Refresh_ExecuteInOtherThread>b__3b(CodeElements codeElements)  
+[252] CS10:    at AxTools.VS10X.CodeMap.CodeMapPresenter._Refresh_ExecuteInOtherThread(Object param) 
+[252] CS10: ---------------------------------------------------------------- 
+[252] CS10: [EXC] _Refresh_ExecuteInOtherThread, exception 
+[252] CS10: Library not registered. (Exception from HRESULT: 0x8002801D (TYPE_E_LIBNOTREGISTERED)) 
+[252] CS10:    at System.Runtime.InteropServices.ComTypes.IEnumerator.MoveNext()  
+[252] CS10:    at System.Collections.IEnumerator.MoveNext()  
+[252] CS10:    at AxTools.VS10X.CodeMap.CodeMapPresenter.<>c__DisplayClass3c.<_Refresh_ExecuteInOtherThread>b__3b(CodeElements codeElements)  
+[252] CS10:    at AxTools.VS10X.CodeMap.CodeMapPresenter._Refresh_ExecuteInOtherThread(Object param) 
+[252] CS10: ---------------------------------------------------------------- 
+[252] CS10: ---------------------------------------------------------------- 
+[252] CS10: [EXC] (no description) 
+[252] CS10: Library not registered. (Exception from HRESULT: 0x8002801D (TYPE_E_LIBNOTREGISTERED)) 
+[252] CS10:    at EnvDTE80.FileCodeModel2.get_CodeElements()  
+[252] CS10:    at AxTools.VS10X.EditorViewEnhancer.XFcm.<_StartParseThread>b__0() 
+[252] CS10: ---------------------------------------------------------------- 
+[252] CS10: _Refresh_ThreadEnded 
+[252] CS10: _Refresh_ExecuteInOtherThread 
+[252] CS10: ---------------------------------------------------------------- 
+[252] CS10: [EXC] _Refresh_ExecuteInOtherThread, exception 
+[252] CS10: Library not registered. (Exception from HRESULT: 0x8002801D (TYPE_E_LIBNOTREGISTERED)) 
+[252] CS10:    at EnvDTE80.FileCodeModel2.get_CodeElements()  
+[252] CS10:    at AxTools.VS10X.CodeMap.CodeMapPresenter._Refresh_ExecuteInOtherThread(Object param) 
+[252] CS10: ---------------------------------------------------------------- 
+[252] CS10: _Refresh_ExecuteInOtherThread 
+[252] CS10: ---------------------------------------------------------------- 
+[252] CS10: [EXC] _Refresh_ExecuteInOtherThread, exception 
+[252] CS10: Library not registered. (Exception from HRESULT: 0x8002801D (TYPE_E_LIBNOTREGISTERED)) 
+[252] CS10:    at System.Runtime.InteropServices.ComTypes.IEnumerator.MoveNext()  
+[252] CS10:    at System.Collections.IEnumerator.MoveNext()  
+[252] CS10:    at AxTools.VS10X.CodeMap.CodeMapPresenter.<>c__DisplayClass3c.<_Refresh_ExecuteInOtherThread>b__3b(CodeElements codeElements)  
+[252] CS10:    at AxTools.VS10X.CodeMap.CodeMapPresenter._Refresh_ExecuteInOtherThread(Object param) 
+[252] CS10: ---------------------------------------------------------------- 
+[252] CS10: _Refresh_ExecuteInOtherThread 
+[252] CS10: _Refresh_ExecuteInOtherThread 
+[252] CS10: ---------------------------------------------------------------- 
+[252] CS10: [EXC] _Refresh_ExecuteInOtherThread, exception 
+[252] CS10: Library not registered. (Exception from HRESULT: 0x8002801D (TYPE_E_LIBNOTREGISTERED)) 
+[252] CS10:    at EnvDTE.CodeElement.get_Kind()  
+[252] CS10:    at AxTools.VS10X.CodeMap.CodeMapPresenter.<>c__DisplayClass3c.<_Refresh_ExecuteInOtherThread>b__3b(CodeElements codeElements)  
+[252] CS10:    at AxTools.VS10X.CodeMap.CodeMapPresenter._Refresh_ExecuteInOtherThread(Object param) 
+[252] CS10: ---------------------------------------------------------------- 
+[252] CS10: _Refresh_ExecuteInOtherThread 
+[252] CS10: ---------------------------------------------------------------- 
+[252] CS10: [EXC] _Refresh_ExecuteInOtherThread, exception 
+[252] CS10: Unable to cast object of type 'System.__ComObject' to type 'EnvDTE.CodeElement'. 
+[252] CS10:    at AxTools.VS10X.CodeMap.CodeMapPresenter.<>c__DisplayClass3c.<_Refresh_ExecuteInOtherThread>b__3b(CodeElements codeElements)  
+[252] CS10:    at AxTools.VS10X.CodeMap.CodeMapPresenter._Refresh_ExecuteInOtherThread(Object param) 
+[252] CS10: ---------------------------------------------------------------- 
+[252] CS10: _Refresh_ThreadEnded 
+[252] CS10: _Refresh_ThreadEnded 
+[252] CS10: ---------------------------------------------------------------- 
+[252] CS10: [EXC] _Refresh_ExecuteInOtherThread, exception in recursion 
+[252] CS10: Value cannot be null.  
+[252] CS10: _Refresh_ThreadEnded 
+[252] CS10: Parameter name: pNativeData 
+[252] CS10:    at System.Runtime.InteropServices.CustomMarshalers.EnumeratorToEnumVariantMarshaler.MarshalNativeToManaged(IntPtr pNativeData)  
+[252] CS10:    at System.Collections.IEnumerator.get_Current()  
+[252] CS10:    at AxTools.VS10X.CodeMap.CodeMapPresenter.<>c__DisplayClass3c.<_Refresh_ExecuteInOtherThread>b__3b(CodeElements codeElements)  
+[252] CS10:    at AxTools.VS10X.CodeMap.CodeMapPresenter.<>c__DisplayClass3c.<_Refresh_ExecuteInOtherThread>b__3b(CodeElements codeElements) 
+[252] CS10: ---------------------------------------------------------------- 
+[252] CS10: _Refresh_ThreadEnded 
+[252] CS10: ---------------------------------------------------------------- 
+[252] CS10: [EXC] _Refresh_ExecuteInOtherThread, exception in recursion 
+[252] CS10: Unable to cast object of type 'System.__ComObject' to type 'EnvDTE.CodeElement'. 
+[252] CS10:    at AxTools.VS10X.CodeMap.CodeMapPresenter.<>c__DisplayClass3c.<_Refresh_ExecuteInOtherThread>b__3b(CodeElements codeElements)  
+[252] CS10:    at AxTools.VS10X.CodeMap.CodeMapPresenter.<>c__DisplayClass3c.<_Refresh_ExecuteInOtherThread>b__3b(CodeElements codeElements) 
+[252] CS10: ---------------------------------------------------------------- 
+[252] CS10: ---------------------------------------------------------------- 
+[252] CS10: [EXC] _Refresh_ExecuteInOtherThread, exception in recursion 
+[252] CS10: Value cannot be null.  
+[252] CS10: Parameter name: pNativeData 
+[252] CS10:    at System.Runtime.InteropServices.CustomMarshalers.EnumeratorToEnumVariantMarshaler.MarshalNativeToManaged(IntPtr pNativeData)  
+[252] CS10:    at System.Collections.IEnumerator.get_Current()  
+[252] CS10:    at AxTools.VS10X.CodeMap.CodeMapPresenter.<>c__DisplayClass3c.<_Refresh_ExecuteInOtherThread>b__3b(CodeElements codeElements)  
+[252] CS10:    at AxTools.VS10X.CodeMap.CodeMapPresenter.<>c__DisplayClass3c.<_Refresh_ExecuteInOtherThread>b__3b(CodeElements codeElements) 
+[252] CS10: ---------------------------------------------------------------- 
+[252] CS10: _Refresh_ThreadEnded: null code element 
+[252] CS10: Support.GetCodeElementBodySpan - startPoint or endPoint is null 
+[252] CS10: Support.GetCodeElementBodySpan - startPoint or endPoint is null 
+[252] CS10: ---------------------------------------------------------------- 
+[252] CS10: [EXC] _Refresh_ExecuteInOtherThread, exception 
+[252] CS10: Library not registered. (Exception from HRESULT: 0x8002801D (TYPE_E_LIBNOTREGISTERED)) 
+[252] CS10:    at EnvDTE80.FileCodeModel2.get_CodeElements()  
+[252] CS10:    at AxTools.VS10X.CodeMap.CodeMapPresenter._Refresh_ExecuteInOtherThread(Object param) 
+[252] CS10: ---------------------------------------------------------------- 
+[252] CS10: [EXC] _Refresh_ExecuteInOtherThread, exception 
+[252] CS10: Object reference not set to an instance of an object. 
+[252] CS10:    at AxTools.VS10X.CodeMap.CodeMapPresenter.<>c__DisplayClass3c.<_Refresh_ExecuteInOtherThread>b__3b(CodeElements codeElements)  
+[252] CS10:    at AxTools.VS10X.CodeMap.CodeMapPresenter._Refresh_ExecuteInOtherThread(Object param) 
+[252] CS10: ---------------------------------------------------------------- 
+[252] CS10: _Refresh_ExecuteInOtherThread 
+[252] CS10: ---------------------------------------------------------------- 
+[252] CS10: [EXC] _Refresh_ExecuteInOtherThread, exception 
+[252] CS10: Value cannot be null.  
+[252] CS10: Parameter name: pNativeData 
+[252] CS10:    at System.Runtime.InteropServices.CustomMarshalers.EnumeratorToEnumVariantMarshaler.MarshalNativeToManaged(IntPtr pNativeData)  
+[252] CS10:    at System.Collections.IEnumerator.get_Current()  
+[252] CS10:    at AxTools.VS10X.CodeMap.CodeMapPresenter.<>c__DisplayClass3c.<_Refresh_ExecuteInOtherThread>b__3b(CodeElements codeElements)  
+[252] CS10:    at AxTools.VS10X.CodeMap.CodeMapPresenter._Refresh_ExecuteInOtherThread(Object param) 
+[252] CS10: ---------------------------------------------------------------- 
+[252] CS10: _Refresh_ExecuteInOtherThread 
+[252] CS10: _Refresh_ExecuteInOtherThread 
+[252] CS10: ---------------------------------------------------------------- 
+[252] CS10: [EXC] _Refresh_ExecuteInOtherThread, exception 
+[252] CS10: Library not registered. (Exception from HRESULT: 0x8002801D (TYPE_E_LIBNOTREGISTERED)) 
+[252] CS10:    at EnvDTE.CodeElements.GetEnumerator()  
+[252] CS10:    at AxTools.VS10X.CodeMap.CodeMapPresenter.<>c__DisplayClass3c.<_Refresh_ExecuteInOtherThread>b__3b(CodeElements codeElements)  
+[252] CS10:    at AxTools.VS10X.CodeMap.CodeMapPresenter._Refresh_ExecuteInOtherThread(Object param) 
+[252] CS10: ---------------------------------------------------------------- 
+[252] CS10: _Refresh_ExecuteInOtherThread 
+[252] CS10: ---------------------------------------------------------------- 
+[252] CS10: [EXC] _Refresh_ExecuteInOtherThread, exception 
+[252] CS10: Value cannot be null.  
+[252] CS10: Parameter name: pNativeData 
+[252] CS10:    at System.Runtime.InteropServices.CustomMarshalers.EnumeratorToEnumVariantMarshaler.MarshalNativeToManaged(IntPtr pNativeData)  
+[252] CS10:    at System.Collections.IEnumerator.get_Current()  
+[252] CS10:    at AxTools.VS10X.CodeMap.CodeMapPresenter.<>c__DisplayClass3c.<_Refresh_ExecuteInOtherThread>b__3b(CodeElements codeElements)  
+[252] CS10:    at AxTools.VS10X.CodeMap.CodeMapPresenter._Refresh_ExecuteInOtherThread(Object param) 
+[252] CS10: ---------------------------------------------------------------- 
+[252] CS10: _Refresh_ThreadEnded 
+[252] CS10: _Refresh_ThreadEnded 
+[252] CS10: _Refresh_ThreadEnded 
+[252] CS10: _Refresh_ThreadEnded 
+[252] CS10: _Refresh_ThreadEnded 
+[252] CS10: _Refresh_ThreadEnded 
+[252] CS10: _Refresh_ExecuteInOtherThread 
+[252] CS10: ---------------------------------------------------------------- 
+[252] CS10: [EXC] _Refresh_ExecuteInOtherThread, exception 
+[252] CS10: Library not registered. (Exception from HRESULT: 0x8002801D (TYPE_E_LIBNOTREGISTERED)) 
+[252] CS10:    at System.Runtime.InteropServices.ComTypes.IEnumerator.MoveNext()  
+[252] CS10:    at System.Collections.IEnumerator.MoveNext()  
+[252] CS10:    at AxTools.VS10X.CodeMap.CodeMapPresenter.<>c__DisplayClass3c.<_Refresh_ExecuteInOtherThread>b__3b(CodeElements codeElements)  
+[252] CS10:    at AxTools.VS10X.CodeMap.CodeMapPresenter._Refresh_ExecuteInOtherThread(Object param) 
+[252] CS10: ---------------------------------------------------------------- 
+[252] CS10: _Refresh_ThreadEnded 
+[252] CS10: _Refresh_ThreadEnded 
+[252] CS10: ---------------------------------------------------------------- 
+[252] CS10: [EXC] (no description) 
+[252] CS10: Library not registered. (Exception from HRESULT: 0x8002801D (TYPE_E_LIBNOTREGISTERED)) 
+[252] CS10:    at EnvDTE80.FileCodeModel2.get_CodeElements()  
+[252] CS10:    at AxTools.VS10X.EditorViewEnhancer.XFcm.<_StartParseThread>b__0() 
+[252] CS10: ---------------------------------------------------------------- 
+[252] CS10: _Refresh_ExecuteInOtherThread 
+[252] CS10: _Refresh_ThreadEnded 
+[252] CS10: _Refresh_ExecuteInOtherThread 
+[252] CS10: _Refresh_ThreadEnded 
+[252] CS10: _Refresh_ExecuteInOtherThread 
+[252] CS10: _Refresh_ThreadEnded 
+[252] CS10: _Refresh_ExecuteInOtherThread 
+[252] CS10: _Refresh_ThreadEnded 
+[252] CS10: _Refresh_ExecuteInOtherThread 
+[252] CS10: _Refresh_ThreadEnded 
+[5368] CS10: SelectionPopupHandler - _selectionPopupEvents is null
+[5368] CS10: ---------------------------------------------------------------- 
+[5368] CS10: [EXC] AutoText.ShowTipWindow: _autoTextTTController is null 
+[5368] CS10: ---------------------------------------------------------------- 
+[5368] CS10: ---------------------------------------------------------------- 
+[5368] CS10: [EXC] AutoText.ShowTipWindow: _autoTextTTController is null 
+[5368] CS10: ---------------------------------------------------------------- 
+[5368] CS10: ---------------------------------------------------------------- 
+[5368] CS10: [EXC] AutoText.ShowTipWindow: _autoTextTTController is null 
+[5368] CS10: ---------------------------------------------------------------- 
+[5368] CS10: ---------------------------------------------------------------- 
+[5368] CS10: [EXC] AutoText.ShowTipWindow: _autoTextTTController is null 
+[5368] CS10: ---------------------------------------------------------------- 
+[5368] CS10: GlobalHistoryMarginProvider.CreateMargin: Dte is null, cannot continue. 
+[252] CS10: _Refresh_ExecuteInOtherThread 
+[252] CS10: _Refresh_ThreadEnded 
+[252] CS10: _Refresh_ThreadEnded: null code element 
+[252] CS10: _Refresh_ExecuteInOtherThread 
+[252] CS10: _Refresh_ThreadEnded 
+[252] CS10: _Refresh_ThreadEnded: null code element 
+[252] CS10: _Refresh_ExecuteInOtherThread 
+[252] CS10: _Refresh_ThreadEnded 
+[252] CS10: _Refresh_ThreadEnded: null code element 
+[252] CS10: _Refresh_ExecuteInOtherThread 
+[252] CS10: _Refresh_ThreadEnded 
+[252] CS10: _Refresh_ThreadEnded: null code element 
+[252] CS10: _Refresh_ExecuteInOtherThread 
+[252] CS10: _Refresh_ThreadEnded 
+[252] CS10: _Refresh_ThreadEnded: null code element 
+[252] CS10: _Refresh_ExecuteInOtherThread 
+[252] CS10: _Refresh_ThreadEnded 
+[252] CS10: _Refresh_ThreadEnded: null code element 
+[252] CS10: _Refresh_ExecuteInOtherThread 
+[252] CS10: _Refresh_ThreadEnded 
+[252] CS10: _Refresh_ThreadEnded: null code element 
+[6004] CS10: SelectionPopupHandler - _selectionPopupEvents is null
+[6004] CS10: in :img\xmethod~vs11L.ico 
+[6004] CS10: out:img\xmethod~vs11L.ico 
+[6004] CS10: GlobalHistoryMarginProvider.CreateMargin: Dte is null, cannot continue. 
+[252] CS10: _Refresh_ExecuteInOtherThread 
+[252] CS10: _Refresh_ThreadEnded 
+[252] CS10: _Refresh_ThreadEnded: null code element 
+[252] CS10: _Refresh_ExecuteInOtherThread 
+[252] CS10: _Refresh_ThreadEnded 
+[252] CS10: _Refresh_ExecuteInOtherThread 
+[252] CS10: _Refresh_ExecuteInOtherThread 
+[252] CS10: ---------------------------------------------------------------- 
+[252] CS10: [EXC] _Refresh_ExecuteInOtherThread, exception 
+[252] CS10: Unable to cast object of type 'System.__ComObject' to type 'EnvDTE.CodeElement'. 
+[252] CS10:    at AxTools.VS10X.CodeMap.CodeMapPresenter.<>c__DisplayClass3c.<_Refresh_ExecuteInOtherThread>b__3b(CodeElements codeElements)  
+[252] CS10:    at AxTools.VS10X.CodeMap.CodeMapPresenter._Refresh_ExecuteInOtherThread(Object param) 
+[252] CS10: ---------------------------------------------------------------- 
+[252] CS10: ---------------------------------------------------------------- 
+[252] CS10: [EXC] _Refresh_ExecuteInOtherThread, exception 
+[252] CS10: Library not registered. (Exception from HRESULT: 0x8002801D (TYPE_E_LIBNOTREGISTERED)) 
+[252] CS10:    at EnvDTE.CodeElement.get_Kind()  
+[252] CS10:    at AxTools.VS10X.CodeMap.CodeMapPresenter.<>c__DisplayClass3c.<_Refresh_ExecuteInOtherThread>b__3b(CodeElements codeElements)  
+[252] CS10:    at AxTools.VS10X.CodeMap.CodeMapPresenter._Refresh_ExecuteInOtherThread(Object param) 
+[252] CS10: ---------------------------------------------------------------- 
+[252] CS10: _Refresh_ExecuteInOtherThread 
+[252] CS10: _Refresh_ThreadEnded 
+[252] CS10: _Refresh_ThreadEnded 
+[252] CS10: _Refresh_ExecuteInOtherThread 
+[252] CS10: _Refresh_ExecuteInOtherThread 
+[252] CS10: ---------------------------------------------------------------- 
+[252] CS10: [EXC] _Refresh_ExecuteInOtherThread, exception 
+[252] CS10: Library not registered. (Exception from HRESULT: 0x8002801D (TYPE_E_LIBNOTREGISTERED)) 
+[252] CS10:    at EnvDTE.CodeElements.GetEnumerator()  
+[252] CS10:    at AxTools.VS10X.CodeMap.CodeMapPresenter.<>c__DisplayClass3c.<_Refresh_ExecuteInOtherThread>b__3b(CodeElements codeElements)  
+[252] CS10:    at AxTools.VS10X.CodeMap.CodeMapPresenter._Refresh_ExecuteInOtherThread(Object param) 
+[252] CS10: ---------------------------------------------------------------- 
+[252] CS10: _Refresh_ExecuteInOtherThread 
+[252] CS10: _Refresh_ExecuteInOtherThread 
+[252] CS10: ---------------------------------------------------------------- 
+[252] CS10: [EXC] _Refresh_ExecuteInOtherThread, exception 
+[252] CS10: Library not registered. (Exception from HRESULT: 0x8002801D (TYPE_E_LIBNOTREGISTERED)) 
+[252] CS10:    at EnvDTE.CodeElements.GetEnumerator()  
+[252] CS10:    at AxTools.VS10X.CodeMap.CodeMapPresenter.<>c__DisplayClass3c.<_Refresh_ExecuteInOtherThread>b__3b(CodeElements codeElements)  
+[252] CS10:    at AxTools.VS10X.CodeMap.CodeMapPresenter._Refresh_ExecuteInOtherThread(Object param) 
+[252] CS10: ---------------------------------------------------------------- 
+[252] CS10: _Refresh_ThreadEnded 
+[252] CS10: _Refresh_ThreadEnded 
+[252] CS10: _Refresh_ThreadEnded 
+[252] CS10: _Refresh_ThreadEnded 
+[252] CS10: _Refresh_ThreadEnded 
+[252] CS10: _Refresh_ExecuteInOtherThread 
+[252] CS10: _Refresh_ExecuteInOtherThread 
+[252] CS10: ---------------------------------------------------------------- 
+[252] CS10: [EXC] _Refresh_ExecuteInOtherThread, exception 
+[252] CS10: Value cannot be null.  
+[252] CS10: Parameter name: pNativeData 
+[252] CS10:    at System.Runtime.InteropServices.CustomMarshalers.EnumeratorToEnumVariantMarshaler.MarshalNativeToManaged(IntPtr pNativeData)  
+[252] CS10:    at System.Collections.IEnumerator.get_Current()  
+[252] CS10:    at AxTools.VS10X.CodeMap.CodeMapPresenter.<>c__DisplayClass3c.<_Refresh_ExecuteInOtherThread>b__3b(CodeElements codeElements)  
+[252] CS10:    at AxTools.VS10X.CodeMap.CodeMapPresenter._Refresh_ExecuteInOtherThread(Object param) 
+[252] CS10: ---------------------------------------------------------------- 
+[252] CS10: _Refresh_ThreadEnded 
+[252] CS10: _Refresh_ExecuteInOtherThread 
+[252] CS10: ---------------------------------------------------------------- 
+[252] CS10: [EXC] _Refresh_ExecuteInOtherThread, exception 
+[252] CS10: Value cannot be null.  
+[252] CS10: Parameter name: pNativeData 
+[252] CS10:    at System.Runtime.InteropServices.CustomMarshalers.EnumeratorToEnumVariantMarshaler.MarshalNativeToManaged(IntPtr pNativeData)  
+[252] CS10:    at System.Collections.IEnumerator.MoveNext()  
+[252] CS10:    at AxTools.VS10X.CodeMap.CodeMapPresenter.<>c__DisplayClass3c.<_Refresh_ExecuteInOtherThread>b__3b(CodeElements codeElements)  
+[252] CS10:    at AxTools.VS10X.CodeMap.CodeMapPresenter._Refresh_ExecuteInOtherThread(Object param) 
+[252] CS10: ---------------------------------------------------------------- 
+[252] CS10: _Refresh_ExecuteInOtherThread 
+[252] CS10: ---------------------------------------------------------------- 
+[252] CS10: [EXC] _Refresh_ExecuteInOtherThread, exception 
+[252] CS10: Object reference not set to an instance of an object. 
+[252] CS10:    at AxTools.VS10X.CodeMap.CodeMapPresenter.<>c__DisplayClass3c.<_Refresh_ExecuteInOtherThread>b__3b(CodeElements codeElements)  
+[252] CS10:    at AxTools.VS10X.CodeMap.CodeMapPresenter._Refresh_ExecuteInOtherThread(Object param) 
+[252] CS10: ---------------------------------------------------------------- 
+[252] CS10: _Refresh_ExecuteInOtherThread 
+[252] CS10: _Refresh_ThreadEnded 
+[252] CS10: _Refresh_ThreadEnded 
+[252] CS10: ---------------------------------------------------------------- 
+[252] CS10: [EXC] _Refresh_ExecuteInOtherThread, exception in recursion 
+[252] CS10: Library not registered. (Exception from HRESULT: 0x8002801D (TYPE_E_LIBNOTREGISTERED)) 
+[252] CS10:    at EnvDTE.CodeElement.get_Kind()  
+[252] CS10:    at AxTools.VS10X.CodeMap.CodeMapPresenter.<>c__DisplayClass3c.<_Refresh_ExecuteInOtherThread>b__3b(CodeElements codeElements)  
+[252] CS10:    at AxTools.VS10X.CodeMap.CodeMapPresenter.<>c__DisplayClass3c.<_Refresh_ExecuteInOtherThread>b__3b(CodeElements codeElements) 
+[252] CS10: ---------------------------------------------------------------- 
+[252] CS10: ---------------------------------------------------------------- 
+[252] CS10: [EXC] _Refresh_ExecuteInOtherThread, exception 
+[252] CS10: Library not registered. (Exception from HRESULT: 0x8002801D (TYPE_E_LIBNOTREGISTERED)) 
+[252] CS10:    at EnvDTE.CodeElement.get_Kind()  
+[252] CS10:    at AxTools.VS10X.CodeMap.CodeMapPresenter.<>c__DisplayClass3c.<_Refresh_ExecuteInOtherThread>b__3b(CodeElements codeElements)  
+[252] CS10:    at AxTools.VS10X.CodeMap.CodeMapPresenter._Refresh_ExecuteInOtherThread(Object param) 
+[252] CS10: ---------------------------------------------------------------- 
+[252] CS10: _Refresh_ExecuteInOtherThread 
+[252] CS10: ---------------------------------------------------------------- 
+[252] CS10: [EXC] _Refresh_ExecuteInOtherThread, exception 
+[252] CS10: Library not registered. (Exception from HRESULT: 0x8002801D (TYPE_E_LIBNOTREGISTERED)) 
+[252] CS10:    at EnvDTE.CodeElement.get_Kind()  
+[252] CS10:    at AxTools.VS10X.CodeMap.CodeMapPresenter.<>c__DisplayClass3c.<_Refresh_ExecuteInOtherThread>b__3b(CodeElements codeElements)  
+[252] CS10:    at AxTools.VS10X.CodeMap.CodeMapPresenter._Refresh_ExecuteInOtherThread(Object param) 
+[252] CS10: ---------------------------------------------------------------- 
+[252] CS10: _Refresh_ExecuteInOtherThread 
+[252] CS10: _Refresh_ThreadEnded 
+[252] CS10: _Refresh_ThreadEnded 
+[252] CS10: _Refresh_ThreadEnded: null code element 
+[252] CS10: _Refresh_ThreadEnded 
+[252] CS10: _Refresh_ThreadEnded 
+[252] CS10: _Refresh_ExecuteInOtherThread 
+[252] CS10: _Refresh_ThreadEnded 
+[252] CS10: _Refresh_ExecuteInOtherThread 
+[252] CS10: _Refresh_ThreadEnded 
+[252] CS10: _Refresh_ExecuteInOtherThread 
+[252] CS10: _Refresh_ThreadEnded 
+[4496] CS10: SelectionPopupHandler - _selectionPopupEvents is null
+[4496] CS10: GlobalHistoryMarginProvider.CreateMargin: Dte is null, cannot continue. 
+[252] CS10: _Refresh_ExecuteInOtherThread 
+[252] CS10: _Refresh_ThreadEnded 
+[252] CS10: _Refresh_ExecuteInOtherThread 
+[252] CS10: _Refresh_ThreadEnded 
+[252] CS10: _Refresh_ThreadEnded: null code element 
+[4524] CS10: SelectionPopupHandler - _selectionPopupEvents is null
+[4524] CS10: in :img\xmethod~vs11L.ico 
+[4524] CS10: out:img\xmethod~vs11L.ico 
+[4524] CS10: ---------------------------------------------------------------- 
+[4524] CS10: [EXC] AutoText.ShowTipWindow: _autoTextTTController is null 
+[4524] CS10: ---------------------------------------------------------------- 
+[4524] CS10: GlobalHistoryMarginProvider.CreateMargin: Dte is null, cannot continue. 
+[252] CS10: _Refresh_ExecuteInOtherThread 
+[252] CS10: _Refresh_ThreadEnded 
+[4360] CS10: SelectionPopupHandler - _selectionPopupEvents is null
+[4360] CS10: in :img\xmethod~vs11L.ico 
+[4360] CS10: out:img\xmethod.ico 
+[4360] CS10: GlobalHistoryMarginProvider.CreateMargin: Dte is null, cannot continue. 
+[252] CS10: _Refresh_ExecuteInOtherThread 
+[252] CS10: _Refresh_ThreadEnded 
+[3080] CS10: SelectionPopupHandler - _selectionPopupEvents is null
+[3080] CS10: in :img\xmethod~vs11L.ico 
+[3080] CS10: out:img\xmethod~vs11L.ico 
+[3080] CS10: GlobalHistoryMarginProvider.CreateMargin: Dte is null, cannot continue. 
+[252] CS10: _Refresh_ExecuteInOtherThread 
+[252] CS10: _Refresh_ThreadEnded 
+[252] CS10: _Refresh_ExecuteInOtherThread 
+[252] CS10: _Refresh_ThreadEnded 
+[252] CS10: _Refresh_ExecuteInOtherThread 
+[252] CS10: _Refresh_ThreadEnded 
+[2636] CS10: SelectionPopupHandler - _selectionPopupEvents is null
+[2636] CS10: in :img\xmethod~vs11L.ico 
+[2636] CS10: out:img\xmethod.ico 
+[2636] CS10: ---------------------------------------------------------------- 
+[2636] CS10: [EXC] AutoText.ShowTipWindow: _autoTextTTController is null 
+[2636] CS10: ---------------------------------------------------------------- 
+[2636] CS10: in :img\xmethod~vs11L.ico 
+[2636] CS10: out:img\xmethod~vs11L.ico 
+[2636] CS10: ---------------------------------------------------------------- 
+[2636] CS10: [EXC] AutoText.ShowTipWindow: _autoTextTTController is null 
+[2636] CS10: ---------------------------------------------------------------- 
+[2636] CS10: in :img\xmethod~vs11L.ico 
+[2636] CS10: out:img\xmethod.ico 
+[2636] CS10: GlobalHistoryMarginProvider.CreateMargin: Dte is null, cannot continue. 
+[252] CS10: _Refresh_ExecuteInOtherThread 
+[252] CS10: _Refresh_ThreadEnded 
+[4184] CS10: SelectionPopupHandler - _selectionPopupEvents is null
+[4184] CS10: trw 
+[4184] CS10: in :img\xmethod.ico 
+[4184] CS10: out:img\xmethod.ico 
+[4184] CS10: in :img\xmethod.ico 
+[4184] CS10: out:img\xmethod.ico 
+[4184] CS10: trw 
+[4184] CS10: trw 
+[4184] CS10: trw 
+[4184] CS10: trw 
+[4184] CS10: trw 
+[4184] CS10: trw 
+[4184] CS10: trw 
+[4184] CS10: trw 
+[4184] CS10: trw 
+[4184] CS10: trw 
+[4184] CS10: trw 
+[4184] CS10: trw 
+[4184] CS10: trw 
+[4184] CS10: trw 
+[4184] CS10: trw 
+[4184] CS10: trw 
+[4184] CS10: trw 
+[4184] CS10: trw 
+[4184] CS10: trw 
+[4184] CS10: trw 
+[4184] CS10: trw 
+[4184] CS10: trw 
+[4184] CS10: trw 
+[4184] CS10: trw 
+[4184] CS10: trw 
+[4184] CS10: trw 
+[4184] CS10: trw 
+[4184] CS10: trw 
+[4184] CS10: trw 
+[4184] CS10: trw 
+[4184] CS10: trw 
+[4184] CS10: trw 
+[4184] CS10: trw 
+[4184] CS10: trw 
+[4184] CS10: trw 
+[4184] CS10: trw 
+[4184] CS10: trw 
+[4184] CS10: trw 
+[4184] CS10: trw 
+[4184] CS10: trw 
+[4184] CS10: trw 
+[4184] CS10: trw 
+[4184] CS10: trw 
+[4184] CS10: trw 
+[4184] CS10: trw 
+[4184] CS10: trw 
+[4184] CS10: trw 
+[4184] CS10: trw 
+[4184] CS10: trw 
+[4184] CS10: trw 
+[4184] CS10: trw 
+[4184] CS10: trw 
+[4184] CS10: trw 
+[4184] CS10: trw 
+[4184] CS10: trw 
+[4184] CS10: trw 
+[4184] CS10: trw 
+[4184] CS10: trw 
+[4184] CS10: trw 
+[4184] CS10: trw 
+[4184] CS10: trw 
+[4184] CS10: trw 
+[4184] CS10: trw 
+[4184] CS10: trw 
+[4184] CS10: trw 
+[4184] CS10: trw 
+[4184] CS10: trw 
+[4184] CS10: trw 
+[4184] CS10: trw 
+[4184] CS10: trw 
+[4184] CS10: trw 
+[4184] CS10: trw 
+[4184] CS10: trw 
+[4184] CS10: trw 
+[4184] CS10: trw 
+[4184] CS10: in :img\xmethod.ico 
+[4184] CS10: out:img\xmethod~vs11L.ico 
+[4184] CS10: in :img\xmethod.ico 
+[4184] CS10: out:img\xmethod~vs11L.ico 
+[4184] CS10: trw 
+[4184] CS10: trw 
+[4184] CS10: trw 
+[4184] CS10: trw 
+[4184] CS10: trw 
+[4184] CS10: trw 
+[4184] CS10: trw 
+[4184] CS10: trw 
+[4184] CS10: trw 
+[4184] CS10: trw 
+[4184] CS10: trw 
+[4184] CS10: trw 
+[4184] CS10: trw 
+[4184] CS10: trw 
+[4184] CS10: trw 
+[4184] CS10: trw 
+[4184] CS10: trw 
+[4184] CS10: trw 
+[4184] CS10: trw 
+[4184] CS10: trw 
+[4184] CS10: trw 
+[4184] CS10: trw 
+[4184] CS10: trw 
+[4184] CS10: trw 
+[4184] CS10: trw 
+[4184] CS10: trw 
+[4184] CS10: trw 
+[4184] CS10: trw 
+[4184] CS10: trw 
+[4184] CS10: trw 
+[4184] CS10: trw 
+[4184] CS10: trw 
+[4184] CS10: trw 
+[4184] CS10: trw 
+[4184] CS10: trw 
+[4184] CS10: trw 
+[4184] CS10: trw 
+[4184] CS10: trw 
+[4184] CS10: trw 
+[4184] CS10: trw 
+[4184] CS10: GlobalHistoryMarginProvider.CreateMargin: Dte is null, cannot continue. 
+[252] CS10: _Refresh_ExecuteInOtherThread 
+[252] CS10: _Refresh_ThreadEnded 
+[252] CS10: _Refresh_ExecuteInOtherThread 
+[252] CS10: _Refresh_ThreadEnded 
+[252] CS10: _Refresh_ExecuteInOtherThread 
+[252] CS10: ---------------------------------------------------------------- 
+[252] CS10: [EXC] _Refresh_ExecuteInOtherThread, exception in recursion 
+[252] CS10: Unable to cast object of type 'System.__ComObject' to type 'EnvDTE.CodeElement'. 
+[252] CS10:    at AxTools.VS10X.CodeMap.CodeMapPresenter.<>c__DisplayClass3c.<_Refresh_ExecuteInOtherThread>b__3b(CodeElements codeElements)  
+[252] CS10:    at AxTools.VS10X.CodeMap.CodeMapPresenter.<>c__DisplayClass3c.<_Refresh_ExecuteInOtherThread>b__3b(CodeElements codeElements) 
+[252] CS10: ---------------------------------------------------------------- 
+[252] CS10: _Refresh_ThreadEnded 
+[252] CS10: _Refresh_ExecuteInOtherThread 
+[252] CS10: _Refresh_ThreadEnded 
+[656] CS10: SelectionPopupHandler - _selectionPopupEvents is null
+[656] CS10: trw 
+[656] CS10: trw - A 
+[656] CS10: in :img\xmethod.ico 
+[656] CS10: out:img\xmethod~vs11L.ico 
+[656] CS10: in :img\xmethod.ico 
+[656] CS10: out:img\xmethod~vs11L.ico 
+[656] CS10: trw 
+[656] CS10: trw - A 
+[656] CS10: trw 
+[656] CS10: trw 
+[656] CS10: trw 
+[656] CS10: trw 
+[656] CS10: trw 
+[656] CS10: trw 
+[656] CS10: trw 
+[656] CS10: trw 
+[656] CS10: trw 
+[656] CS10: trw 
+[656] CS10: trw 
+[656] CS10: trw 
+[656] CS10: trw 
+[656] CS10: trw 
+[656] CS10: trw 
+[656] CS10: trw 
+[656] CS10: trw 
+[656] CS10: trw 
+[656] CS10: trw 
+[656] CS10: trw 
+[656] CS10: trw 
+[656] CS10: trw 
+[656] CS10: trw 
+[656] CS10: trw 
+[656] CS10: trw 
+[656] CS10: in :img\xmethod.ico 
+[656] CS10: out:img\xmethod.ico 
+[656] CS10: in :img\xmethod.ico 
+[656] CS10: out:img\xmethod.ico 
+[656] CS10: trw 
+[656] CS10: trw - A 
+[656] CS10: trw 
+[656] CS10: trw - A 
+[656] CS10: trw 
+[656] CS10: trw - A 
+[656] CS10: trw 
+[656] CS10: trw - A 
+[656] CS10: trw 
+[656] CS10: trw - A 
+[656] CS10: trw 
+[656] CS10: trw - A 
+[656] CS10: trw 
+[656] CS10: trw - A 
+[656] CS10: trw 
+[656] CS10: trw - A 
+[656] CS10: trw 
+[656] CS10: trw - A 
+[656] CS10: trw 
+[656] CS10: trw - A 
+[656] CS10: trw 
+[656] CS10: trw - A 
+[656] CS10: trw 
+[656] CS10: trw - A 
+[656] CS10: GlobalHistoryMarginProvider.CreateMargin: Dte is null, cannot continue. 
+[252] CS10: _Refresh_ExecuteInOtherThread 
+[252] CS10: _Refresh_ThreadEnded 
+[6108] CS10: SelectionPopupHandler - _selectionPopupEvents is null
+[6108] CS10: trw 
+[6108] CS10: trw - A 
+[6108] CS10: in :img\xmethod.ico 
+[6108] CS10: out:img\xmethod.ico 
+[6108] CS10: in :img\xmethod.ico 
+[6108] CS10: out:img\xmethod.ico 
+[6108] CS10: trw 
+[6108] CS10: trw - A 
+[6108] CS10: trw 
+[6108] CS10: trw 
+[6108] CS10: trw 
+[6108] CS10: trw 
+[6108] CS10: trw 
+[6108] CS10: trw 
+[6108] CS10: trw 
+[6108] CS10: trw 
+[6108] CS10: trw 
+[6108] CS10: trw 
+[6108] CS10: trw 
+[6108] CS10: trw 
+[6108] CS10: trw 
+[6108] CS10: trw 
+[6108] CS10: trw 
+[6108] CS10: trw 
+[6108] CS10: trw 
+[6108] CS10: trw 
+[6108] CS10: trw 
+[6108] CS10: trw 
+[6108] CS10: trw 
+[6108] CS10: trw 
+[6108] CS10: trw 
+[6108] CS10: in :img\xmethod.ico 
+[6108] CS10: out:img\xmethod~vs11L.ico 
+[6108] CS10: in :img\xmethod.ico 
+[6108] CS10: out:img\xmethod~vs11L.ico 
+[6108] CS10: trw 
+[6108] CS10: trw - A 
+[6108] CS10: trw 
+[6108] CS10: trw 
+[6108] CS10: trw 
+[6108] CS10: trw 
+[6108] CS10: trw 
+[6108] CS10: trw 
+[6108] CS10: trw 
+[6108] CS10: trw 
+[6108] CS10: trw 
+[6108] CS10: trw 
+[6108] CS10: trw 
+[6108] CS10: trw 
+[6108] CS10: trw 
+[6108] CS10: trw 
+[6108] CS10: trw 
+[6108] CS10: trw 
+[6108] CS10: trw 
+[6108] CS10: GlobalHistoryMarginProvider.CreateMargin: Dte is null, cannot continue. 
+[252] CS10: _Refresh_ExecuteInOtherThread 
+[252] CS10: _Refresh_ThreadEnded 
