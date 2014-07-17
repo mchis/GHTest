@@ -861,17 +861,6 @@
 [6108] CS10: trw 
 [6108] CS10: trw 
 [6108] CS10: trw 
-[6108] CS10: trw 
-[6108] CS10: trw 
-[6108] CS10: trw 
-[6108] CS10: trw 
-[6108] CS10: trw 
-[6108] CS10: trw 
-[6108] CS10: trw 
-[6108] CS10: trw 
-[6108] CS10: trw 
-[6108] CS10: trw 
-[6108] CS10: trw 
 [6108] CS10: in :img\xmethod.ico 
 [6108] CS10: out:img\xmethod~vs11L.ico 
 [6108] CS10: in :img\xmethod.ico 
@@ -884,7 +873,7 @@
 [6108] CS10: trw 
 [6108] CS10: trw 
 [6108] CS10: trw 
-[6108] CS10: trw 
+[6108] CS10: trwx 
 [6108] CS10: trw 
 [6108] CS10: trw 
 [6108] CS10: trw 
